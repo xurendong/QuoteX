@@ -1,5 +1,5 @@
 # QuoteX
-V0.4.0-Beta Build 20180822
+V0.5.0-Beta Build 20190318
 
 © 2018-2019 Xu Rendong. All Rights Reserved.
 
