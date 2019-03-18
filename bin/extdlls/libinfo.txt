@@ -1,2 +1,4 @@
+L2mduserapi.dll       -->  LTP
+securityqueryapi.dll  -->  LTP
 thostmduserapi.dll    -->  CTP
 thosttraderapi.dll    -->  CTP
