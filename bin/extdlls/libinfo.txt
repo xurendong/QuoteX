@@ -1,4 +1,9 @@
+CCECore.dll           -->  TDF
 L2mduserapi.dll       -->  LTP
 securityqueryapi.dll  -->  LTP
+TDFAPI.dll            -->  TDF
 thostmduserapi.dll    -->  CTP
 thosttraderapi.dll    -->  CTP
+thostmduserapi_se.dll -->  CTP 穿透式
+thosttraderapi_se.dll -->  CTP 穿透式
+WinDataCollect.dll    -->  CTP 穿透式

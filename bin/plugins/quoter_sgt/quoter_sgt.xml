@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="GB2312" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <Plugin Name="quoter_sgt" Version="1.0.0" CompatVersion="1.0.0" Experimental="False">
     <Vendor>X-Lab</Vendor>
     <Copyright>Copyright 2018-2018 X-Lab All Rights Reserved</Copyright>
     <License>Commercial Usage And GNU Lesser General Public License Usage</License>
-    <Category>扩展</Category>
-    <Description>深证深港通行情插件</Description>
+    <Category>鎵╁睍</Category>
+    <Description>娣辫瘉娣辨腐閫氳鎯呮彃浠�</Description>
     <Url>http://www.xlab.com</Url>
     <DependencyList>
     </DependencyList>
     <ArgumentList>
-        <Argument Name="-color" Parameter="blue">用户界面颜色参数</Argument>
-        <Argument Name="-size" Parameter="10.0">对话框大小参数</Argument>
+        <Argument Name="-color" Parameter="blue">鐢ㄦ埛鐣岄潰棰滆壊鍙傛暟</Argument>
+        <Argument Name="-size" Parameter="10.0">瀵硅瘽妗嗗ぇ灏忓弬鏁�</Argument>
     </ArgumentList>
 </Plugin>
