@@ -1,7 +1,7 @@
 # QuoteX
-V0.6.0-Beta Build 20190924
+V0.6.1-Beta Build 20231211
 
-© 2018-2019 Xu Rendong. All Rights Reserved.
+© 2018-2023 Xu Rendong. All Rights Reserved.
 
 ### Project Summary
 Quote Server.
